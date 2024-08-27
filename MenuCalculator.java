@@ -12,7 +12,7 @@ import java.awt.event.KeyAdapter;
 
  
 
-public class MenuCalculator {
+public class MenuCal {
 
     private static JFrame firstFrame;
 
